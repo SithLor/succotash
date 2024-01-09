@@ -1,0 +1,7 @@
+
+complier({
+    config:{
+
+    }
+    step:[o]
+})
