@@ -1,7 +1,0 @@
-
-complier({
-    config:{
-
-    }
-    step:[o]
-})
